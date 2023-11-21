@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Texas</h3>
 <img align="right" alt="woman-coding" width="450" src="https://images.squarespace-cdn.com/content/v1/53be1344e4b08ede82e11ecf/1565135710257-28AE3KXYKJVYYHKKNZ6X/giphy.gif?format=750w">
 
-- 🔭 I'm currently working on **Java, Spring, and infrastructure projects at Indeed.**
+- 🔭 I'm currently working in **Java Spring Boot and Typescript Vue.js at CharterUP.**
 
 - 🌱 I'm currently learning **AWS and Terraform**
 
